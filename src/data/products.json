@@ -1,0 +1,211 @@
+[
+  {
+    "id": "acrylic-photo-frame-1",
+    "title": "Acrylic Photo Frame - Square",
+    "description": "Crystal clear acrylic photo frame perfect for your favorite memories",
+    "category": "Wall Decoratives",
+    "materials": ["Acrylic"],
+    "sizes": [
+      { "name": "4x4\"", "price": 299, "dimensions": "4x4 inches" },
+      { "name": "6x6\"", "price": 399, "dimensions": "6x6 inches" },
+      { "name": "8x8\"", "price": 499, "dimensions": "8x8 inches" }
+    ],
+    "basePrice": 299,
+    "personalizationOptions": ["photo"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["acrylic", "frame", "wall", "photo"],
+    "stock": "in-stock",
+    "featured": true
+  },
+  {
+    "id": "name-pencils-1",
+    "title": "Personalized Name Pencils",
+    "description": "Custom wooden pencils with your child's name - perfect for school",
+    "category": "Gifts",
+    "materials": ["Wood"],
+    "sizes": [
+      { "name": "Pack of 12", "price": 199, "dimensions": "Standard HB pencils" },
+      { "name": "Pack of 24", "price": 349, "dimensions": "Standard HB pencils" }
+    ],
+    "basePrice": 199,
+    "personalizationOptions": ["text"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["pencils", "name", "school", "kids"],
+    "stock": "in-stock",
+    "featured": true
+  },
+  {
+    "id": "mobile-case-1",
+    "title": "Custom Mobile Case",
+    "description": "Protect your phone with a personalized case featuring your photo",
+    "category": "Accessories",
+    "materials": ["Plastic", "TPU"],
+    "sizes": [
+      { "name": "iPhone 14", "price": 399, "dimensions": "iPhone 14" },
+      { "name": "iPhone 15", "price": 399, "dimensions": "iPhone 15" },
+      { "name": "Samsung Galaxy S24", "price": 399, "dimensions": "Samsung Galaxy S24" }
+    ],
+    "basePrice": 399,
+    "personalizationOptions": ["photo", "text"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["mobile", "case", "phone", "protection"],
+    "stock": "in-stock",
+    "featured": true
+  },
+  {
+    "id": "photo-mug-1",
+    "title": "Personalized Photo Mug",
+    "description": "Start your day with your favorite memories on a ceramic mug",
+    "category": "Desk Items",
+    "materials": ["Ceramic"],
+    "sizes": [
+      { "name": "11oz", "price": 249, "dimensions": "11oz capacity" },
+      { "name": "15oz", "price": 299, "dimensions": "15oz capacity" }
+    ],
+    "basePrice": 249,
+    "personalizationOptions": ["photo", "text"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["mug", "ceramic", "photo", "coffee"],
+    "stock": "in-stock",
+    "featured": false
+  },
+  {
+    "id": "canvas-frame-1",
+    "title": "Canvas Photo Print",
+    "description": "Transform your photos into beautiful canvas art",
+    "category": "Wall Decoratives",
+    "materials": ["Canvas"],
+    "sizes": [
+      { "name": "12x16\"", "price": 599, "dimensions": "12x16 inches" },
+      { "name": "16x20\"", "price": 799, "dimensions": "16x20 inches" },
+      { "name": "20x24\"", "price": 999, "dimensions": "20x24 inches" }
+    ],
+    "basePrice": 599,
+    "personalizationOptions": ["photo"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["canvas", "art", "photo", "wall"],
+    "stock": "in-stock",
+    "featured": true
+  },
+  {
+    "id": "wooden-nameplate-1",
+    "title": "Wooden Door Nameplate",
+    "description": "Elegant wooden nameplate for your home entrance",
+    "category": "Wall Decoratives",
+    "materials": ["Wood"],
+    "sizes": [
+      { "name": "Small (8x3\")", "price": 399, "dimensions": "8x3 inches" },
+      { "name": "Medium (12x4\")", "price": 499, "dimensions": "12x4 inches" },
+      { "name": "Large (16x5\")", "price": 599, "dimensions": "16x5 inches" }
+    ],
+    "basePrice": 399,
+    "personalizationOptions": ["text"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["nameplate", "wood", "door", "entrance"],
+    "stock": "in-stock",
+    "featured": false
+  },
+  {
+    "id": "metal-pen-1",
+    "title": "Metal Name Pen",
+    "description": "Premium metal pen with custom engraving",
+    "category": "Desk Items",
+    "materials": ["Metal"],
+    "sizes": [
+      { "name": "Standard", "price": 299, "dimensions": "Standard pen size" }
+    ],
+    "basePrice": 299,
+    "personalizationOptions": ["text"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["pen", "metal", "engraving", "office"],
+    "stock": "in-stock",
+    "featured": false
+  },
+  {
+    "id": "photo-keychain-1",
+    "title": "Photo Keychain",
+    "description": "Carry your memories with you - custom photo keychain",
+    "category": "Accessories",
+    "materials": ["Acrylic", "Metal"],
+    "sizes": [
+      { "name": "Small", "price": 149, "dimensions": "2x2 inches" },
+      { "name": "Large", "price": 199, "dimensions": "3x2 inches" }
+    ],
+    "basePrice": 149,
+    "personalizationOptions": ["photo"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["keychain", "photo", "portable", "gift"],
+    "stock": "in-stock",
+    "featured": false
+  },
+  {
+    "id": "acrylic-clock-1",
+    "title": "Acrylic Wall Clock",
+    "description": "Stylish wall clock with your custom photo or design",
+    "category": "Wall Decoratives",
+    "materials": ["Acrylic"],
+    "sizes": [
+      { "name": "10\" diameter", "price": 699, "dimensions": "10 inch diameter" },
+      { "name": "12\" diameter", "price": 799, "dimensions": "12 inch diameter" }
+    ],
+    "basePrice": 699,
+    "personalizationOptions": ["photo", "text"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["clock", "acrylic", "wall", "time"],
+    "stock": "in-stock",
+    "featured": true
+  },
+  {
+    "id": "photo-puzzle-1",
+    "title": "Custom Photo Puzzle",
+    "description": "Turn your favorite photo into a fun jigsaw puzzle",
+    "category": "Gifts",
+    "materials": ["Paper"],
+    "sizes": [
+      { "name": "120 pieces", "price": 349, "dimensions": "8x10 inches" },
+      { "name": "252 pieces", "price": 449, "dimensions": "10x14 inches" },
+      { "name": "500 pieces", "price": 599, "dimensions": "16x20 inches" }
+    ],
+    "basePrice": 349,
+    "personalizationOptions": ["photo"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["puzzle", "photo", "game", "family"],
+    "stock": "in-stock",
+    "featured": false
+  },
+  {
+    "id": "fridge-magnet-1",
+    "title": "Custom Fridge Magnet",
+    "description": "Personalized fridge magnets to brighten up your kitchen",
+    "category": "Desk Items",
+    "materials": ["Plastic", "Magnet"],
+    "sizes": [
+      { "name": "Small (2x3\")", "price": 99, "dimensions": "2x3 inches" },
+      { "name": "Large (3x4\")", "price": 149, "dimensions": "3x4 inches" }
+    ],
+    "basePrice": 99,
+    "personalizationOptions": ["photo", "text"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["magnet", "fridge", "kitchen", "photo"],
+    "stock": "in-stock",
+    "featured": false
+  },
+  {
+    "id": "photo-pillow-1",
+    "title": "Custom Photo Pillow",
+    "description": "Soft cushion with your favorite photo printed on it",
+    "category": "Gifts",
+    "materials": ["Fabric"],
+    "sizes": [
+      { "name": "12x12\"", "price": 449, "dimensions": "12x12 inches" },
+      { "name": "16x16\"", "price": 549, "dimensions": "16x16 inches" },
+      { "name": "18x18\"", "price": 649, "dimensions": "18x18 inches" }
+    ],
+    "basePrice": 449,
+    "personalizationOptions": ["photo"],
+    "images": ["/placeholder.svg", "/placeholder.svg"],
+    "tags": ["pillow", "cushion", "photo", "home"],
+    "stock": "in-stock",
+    "featured": false
+  }
+]
